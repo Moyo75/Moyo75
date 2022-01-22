@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John, a Web Developer.
-- 👀 I’m interested in frontend technologies (HTML, CSS and JavaScript) and frameworks (mainly React).
-- 🌱 I’m currently working on projects to deepen my knowledge in React and at the same time to build my portfolio.
+- 👀 I’m proficient in frontend technologies (HTML, CSS and JavaScript) and frameworks (mainly React).
+- 😎 I like connecting with cool people.
 - 💞️ You can reach me on [twitter](https://twitter.com/AdemoyeJohn).
 
 <!---
