@@ -1,6 +1,6 @@
 ### Hi there, I'm John 👋 - A Student, Developer and Content Creator!!
 
-- 💻 I’m currently learning... Well, it sort of changes often.
+- 💻 I’m currently learning... Well, it sort of changes often
 - 🚀 I’m looking contribute more to Open Source projects
 - 🏐 Fun fact: I like drawing and connecting with interesting people 
 
