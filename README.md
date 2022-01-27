@@ -1,8 +1,4 @@
-### Hi there, I'm John 👋 
-
-<br >
-
-## I'm a Student, Developer and Content Creator!!
+### Hi there, I'm John 👋 - A Student, Developer and Content Creator!!
 
 - 💻 I’m currently learning... Well, it sort of changes often.
 - 🚀 I’m looking contribute more to Open Source projects
