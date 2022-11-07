@@ -1,7 +1,7 @@
 ### Hi there, I'm John 👋 - Developer and Content Creator
 
 - 💻 I’m currently learning... Well, it sort of changes often
-- 🚀 2022 Goals: I’m looking contribute more to Open Source projects
+- 🚀 2023 Goals: I’m looking improve technically and contribute more to OS projects
 - 🏐 Fun fact: I like drawing and connecting with interesting people 
 
 ### Connect with me:
